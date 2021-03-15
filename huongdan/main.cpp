@@ -3,6 +3,9 @@
 and may not be redistributed without written permission.*/
 
 //Using SDL, SDL_image, standard IO, and strings
+
+// first commit
+
 #include "Character.hpp"
 #include "Common_Function.hpp"
 
